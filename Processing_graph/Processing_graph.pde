@@ -5,7 +5,7 @@ float[] gestureThree = null;
 
 float[][] gesturePoints = new float[4][2];
 float[] gestureDist = new float[4];
-String[] names = {"Nothing", "Touch", "Grab","In water"};
+String[] names = {"Nothing", "Touch", "Double Touch","Grab"};
 void setup() {
 
   size(1000, 500); 
